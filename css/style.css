@@ -129,11 +129,11 @@
 }
 
 .a-logo:hover .img-logo {
-    fill: #c42835;
+    fill: #dd6337;
 }
 
 .a-logo:hover .text-logo {
-    color: #c42835;
+    color: #dd6337;
 }
 
 .a-logo:active .img-logo {
@@ -1142,7 +1142,7 @@ input::-webkit-search-results-decoration {
     margin: 0;
     outline: none;
     background-color: #445162;
-    object-fit: cover
+    object-fit: cover;
 }
 
 .video-content {
@@ -2400,7 +2400,7 @@ input::-webkit-search-results-decoration {
         text-decoration: none;
         font-family: "Raleway regular", "Arial", Sans-serif;
         font-size: 14px;
-        color: #fff
+        color: #fff;
     }
 
     .Purchase-Now .button-Purchase-Now:hover {
@@ -2587,11 +2587,11 @@ input::-webkit-search-results-decoration {
     }
 
     .h2-video {
-        display: none
+        display: none;
     }
 
     .p-video {
-        display: none
+        display: none;
     }
 
     .section-Excellent-for-Mobile-Devices {
@@ -2604,11 +2604,10 @@ input::-webkit-search-results-decoration {
 
     .h2-Excellent-for-Mobile-Devices {
         width: 100%;
-        float: none;
         text-align: center;
         font-family: "Raleway SemiBold", "Arial", Sans-serif;
         font-size: 20px;
-        color: #555
+        color: #555;
     }
 
     .p-Excellent-for-Mobile-Devices {
@@ -2617,7 +2616,6 @@ input::-webkit-search-results-decoration {
         font-weight: normal;
         line-height: 20px;
         width: 90%;
-        float: none;
         text-align: justify;
         font-family: "Montserrat regular", "Arial", Sans-serif;
         font-size: 14px;
@@ -2629,7 +2627,6 @@ input::-webkit-search-results-decoration {
         width: 60%;
         margin: 0;
         padding: 0;
-        float: none;
         list-style-type: none;
         margin-top: 30px;
         padding-left: 40%
